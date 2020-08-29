@@ -10,3 +10,17 @@
 
 
 ![](https://miro.medium.com/max/2560/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg)
+
+<br>
+
+## Wanna Contribute ?
+- Star this repo 🌟
+- Clone this repo using `git clone https://github.com/shubhamaniket/Data-Structures-Algorithms.git`  😄
+- Create a new branch using `git checkout -b <branch_name>` ✅
+- Create the new file with the format `<Question_name>.cpp`
+- The file should contain the question at the top in comments and then the code. 😃
+
+<br>
+
+## <center>Happy Contributing !</center>
+
