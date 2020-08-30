@@ -54,6 +54,11 @@ int main()
         cin >> arr[i];
     }
     int ceilindex = ceilsearch(arr,n,x);
-    cout << "Ceil : " << arr[ceilindex] << endl;
+    if(ceilindex == -1){
+        cout << "Ceil : Not found" << endl;
+    }
+    else{
+        cout << "Ceil : " << arr[ceilindex] << endl;
+    }
     return 0;
 }
